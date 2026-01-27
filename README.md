@@ -1,6 +1,4 @@
 ## Hi, Bishwash here 
-
-### Tech Stack
 - **Languages:** C#, JavaScript, Python  
 - **Backend:** .NET Core | **Frontend:** React, Tailwind CSS  
 - **Databases:** SQL Server, PgSQL, MongoDB, Redis  
